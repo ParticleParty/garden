@@ -10,9 +10,6 @@
 ---
 
 ## The Archive
-```dataview
-LIST
-FROM "Journal"
-WHERE file.name != "Journal" 
-SORT file.name DESC
-```
+- [[Journal/2026/June/2026-06-01 - Setting up the garden\|2026-06-01 - Setting up the garden]]
+
+{ .block-language-dataview}

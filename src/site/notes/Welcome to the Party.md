@@ -40,9 +40,5 @@ _Substantial, formed work._
 - **🧲 [[Gravity\|Gravity]]**
 
 ## New
-```dataview
-LIST
-WHERE status = "Published"
-SORT file.ctime DESC
-LIMIT 10
-```
+
+{ .block-language-dataview}
